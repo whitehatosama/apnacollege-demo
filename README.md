@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Fit Repository
 <br>
-Author - Muhammad Osama Mazhar
+Author - (Apna Collage)
